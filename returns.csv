@@ -1,0 +1,132 @@
+Order_ID,Order_Date,Product_Category,Vendor,Carrier,Price,Return_Flag,Return_Reason,Return_Date,Return_Cost,Resolution_Time_Days
+4,2023-01-04,Sports,Vendor A,Carrier Z,353,Yes,No Longer Needed,2023-01-08,128.0,5
+8,2023-01-08,Home,Vendor C,Carrier Y,1440,Yes,Late Delivery,2023-01-22,1067.0,8
+9,2023-01-09,Home,Vendor A,Carrier Y,260,Yes,Damaged,2023-01-16,129.0,1
+15,2023-01-15,Beauty,Vendor D,Carrier X,1452,Yes,No Longer Needed,2023-01-16,1037.0,5
+31,2023-01-31,Home,Vendor A,Carrier X,3863,Yes,Damaged,2023-02-07,2680.0,3
+33,2023-02-02,Beauty,Vendor C,Carrier Z,538,Yes,Late Delivery,2023-02-03,329.0,4
+34,2023-02-03,Electronics,Vendor A,Carrier Z,4262,Yes,No Longer Needed,2023-02-05,2332.0,2
+35,2023-02-04,Home,Vendor D,Carrier Z,2908,Yes,Wrong Item,2023-02-08,2297.0,9
+37,2023-02-06,Home,Vendor C,Carrier Z,1950,Yes,Wrong Item,2023-02-07,726.0,3
+38,2023-02-07,Sports,Vendor D,Carrier Y,2621,Yes,No Longer Needed,2023-02-18,1737.0,2
+39,2023-02-08,Electronics,Vendor A,Carrier Y,909,Yes,No Longer Needed,2023-02-20,360.0,9
+40,2023-02-09,Clothing,Vendor C,Carrier Z,3926,Yes,Damaged,2023-02-20,1842.0,7
+46,2023-02-15,Electronics,Vendor B,Carrier Y,600,Yes,No Longer Needed,2023-02-26,273.0,6
+54,2023-02-23,Sports,Vendor C,Carrier Z,4432,Yes,Damaged,2023-03-04,3428.0,1
+55,2023-02-24,Home,Vendor B,Carrier X,3130,Yes,Late Delivery,2023-03-08,2453.0,5
+56,2023-02-25,Electronics,Vendor C,Carrier X,1721,Yes,Damaged,2023-03-03,674.0,3
+59,2023-02-28,Beauty,Vendor B,Carrier Y,3494,Yes,No Longer Needed,2023-03-13,1087.0,1
+60,2023-03-01,Clothing,Vendor B,Carrier Z,2619,Yes,No Longer Needed,2023-03-02,1729.0,4
+62,2023-03-03,Beauty,Vendor A,Carrier X,3242,Yes,Late Delivery,2023-03-04,1650.0,2
+63,2023-03-04,Sports,Vendor A,Carrier Z,4697,Yes,No Longer Needed,2023-03-10,1618.0,2
+69,2023-03-10,Beauty,Vendor B,Carrier Y,2867,Yes,No Longer Needed,2023-03-14,1840.0,3
+70,2023-03-11,Beauty,Vendor A,Carrier Z,330,Yes,Wrong Item,2023-03-15,189.0,8
+74,2023-03-15,Clothing,Vendor B,Carrier Z,238,Yes,Wrong Item,2023-03-26,188.0,8
+83,2023-03-24,Sports,Vendor A,Carrier X,510,Yes,Late Delivery,2023-03-30,211.0,7
+89,2023-03-30,Beauty,Vendor A,Carrier X,2004,Yes,Damaged,2023-04-13,1006.0,6
+91,2023-04-01,Home,Vendor D,Carrier Z,4010,Yes,Wrong Item,2023-04-13,2291.0,9
+112,2023-04-22,Home,Vendor B,Carrier Z,3700,Yes,Damaged,2023-05-03,2575.0,4
+114,2023-04-24,Home,Vendor D,Carrier X,575,Yes,No Longer Needed,2023-05-01,330.0,1
+123,2023-05-03,Sports,Vendor A,Carrier Y,2434,Yes,Wrong Item,2023-05-12,1476.0,8
+124,2023-05-04,Home,Vendor D,Carrier Y,2241,Yes,Late Delivery,2023-05-14,926.0,7
+126,2023-05-06,Beauty,Vendor A,Carrier X,2308,Yes,Late Delivery,2023-05-11,1670.0,7
+136,2023-05-16,Home,Vendor B,Carrier X,1589,Yes,Late Delivery,2023-05-25,817.0,3
+140,2023-05-20,Sports,Vendor A,Carrier X,2465,Yes,Wrong Item,2023-05-24,913.0,4
+142,2023-05-22,Sports,Vendor C,Carrier X,3000,Yes,Damaged,2023-06-04,1896.0,9
+143,2023-05-23,Beauty,Vendor A,Carrier X,2753,Yes,No Longer Needed,2023-06-02,1123.0,6
+150,2023-05-30,Beauty,Vendor D,Carrier Z,2113,Yes,Damaged,2023-06-01,737.0,5
+156,2023-06-05,Electronics,Vendor C,Carrier Z,2309,Yes,Damaged,2023-06-08,1688.0,3
+159,2023-06-08,Electronics,Vendor B,Carrier Z,4269,Yes,No Longer Needed,2023-06-21,2263.0,9
+162,2023-06-11,Electronics,Vendor A,Carrier Y,3360,Yes,No Longer Needed,2023-06-22,2267.0,5
+165,2023-06-14,Home,Vendor B,Carrier X,2133,Yes,Wrong Item,2023-06-15,950.0,5
+169,2023-06-18,Electronics,Vendor A,Carrier X,1840,Yes,Wrong Item,2023-07-02,1276.0,4
+170,2023-06-19,Beauty,Vendor C,Carrier X,2882,Yes,Wrong Item,2023-07-03,1026.0,4
+176,2023-06-25,Clothing,Vendor B,Carrier Y,4335,Yes,Wrong Item,2023-07-01,2072.0,1
+188,2023-07-07,Electronics,Vendor D,Carrier Z,1911,Yes,Wrong Item,2023-07-20,1508.0,7
+190,2023-07-09,Home,Vendor D,Carrier X,995,Yes,No Longer Needed,2023-07-15,694.0,9
+191,2023-07-10,Clothing,Vendor D,Carrier X,4236,Yes,Damaged,2023-07-11,2324.0,3
+195,2023-07-14,Beauty,Vendor D,Carrier Z,517,Yes,Wrong Item,2023-07-25,243.0,2
+197,2023-07-16,Home,Vendor B,Carrier Z,2362,Yes,Wrong Item,2023-07-29,1739.0,3
+198,2023-07-17,Electronics,Vendor C,Carrier Z,2945,Yes,Damaged,2023-07-20,1686.0,1
+202,2023-07-21,Home,Vendor A,Carrier X,2196,Yes,Wrong Item,2023-07-26,1492.0,6
+203,2023-07-22,Electronics,Vendor D,Carrier Z,1512,Yes,Damaged,2023-07-25,1024.0,7
+210,2023-07-29,Beauty,Vendor C,Carrier Y,562,Yes,Damaged,2023-08-08,174.0,2
+227,2023-08-15,Clothing,Vendor C,Carrier Y,2329,Yes,No Longer Needed,2023-08-18,846.0,8
+232,2023-08-20,Electronics,Vendor B,Carrier Y,1747,Yes,Late Delivery,2023-09-03,1100.0,6
+234,2023-08-22,Beauty,Vendor C,Carrier Y,2185,Yes,No Longer Needed,2023-09-01,832.0,4
+235,2023-08-23,Electronics,Vendor A,Carrier Z,3317,Yes,Late Delivery,2023-08-26,1419.0,5
+242,2023-08-30,Electronics,Vendor C,Carrier Y,4970,Yes,Late Delivery,2023-09-04,3843.0,8
+246,2023-09-03,Home,Vendor A,Carrier X,4881,Yes,Late Delivery,2023-09-16,2831.0,3
+250,2023-09-07,Home,Vendor C,Carrier Z,771,Yes,Wrong Item,2023-09-12,521.0,3
+255,2023-09-12,Electronics,Vendor B,Carrier X,2087,Yes,No Longer Needed,2023-09-16,1208.0,4
+257,2023-09-14,Electronics,Vendor A,Carrier Y,1465,Yes,Late Delivery,2023-09-15,844.0,1
+260,2023-09-17,Clothing,Vendor A,Carrier Y,1085,Yes,Damaged,2023-09-22,377.0,9
+262,2023-09-19,Home,Vendor C,Carrier Z,221,Yes,Wrong Item,2023-09-29,104.0,8
+268,2023-09-25,Electronics,Vendor B,Carrier Y,484,Yes,No Longer Needed,2023-09-30,214.0,8
+269,2023-09-26,Sports,Vendor B,Carrier Z,3947,Yes,Late Delivery,2023-09-30,1955.0,6
+270,2023-09-27,Beauty,Vendor C,Carrier Y,962,Yes,Damaged,2023-10-03,673.0,7
+271,2023-09-28,Home,Vendor A,Carrier Z,2628,Yes,No Longer Needed,2023-10-08,1277.0,6
+275,2023-10-02,Home,Vendor B,Carrier Z,3304,Yes,No Longer Needed,2023-10-06,1737.0,9
+281,2023-10-08,Clothing,Vendor B,Carrier Z,3753,Yes,Wrong Item,2023-10-22,1872.0,3
+293,2023-10-20,Electronics,Vendor B,Carrier X,3355,Yes,No Longer Needed,2023-10-27,1163.0,3
+294,2023-10-21,Beauty,Vendor B,Carrier Z,3293,Yes,Wrong Item,2023-10-28,1714.0,3
+297,2023-10-24,Sports,Vendor C,Carrier X,3096,Yes,Late Delivery,2023-10-26,1232.0,3
+298,2023-10-25,Home,Vendor B,Carrier Y,3653,Yes,Wrong Item,2023-10-28,1437.0,9
+299,2023-10-26,Beauty,Vendor D,Carrier Y,3711,Yes,Damaged,2023-10-27,1288.0,4
+307,2023-11-03,Electronics,Vendor A,Carrier Z,1133,Yes,Wrong Item,2023-11-11,542.0,7
+314,2023-11-10,Electronics,Vendor A,Carrier X,991,Yes,Damaged,2023-11-19,673.0,9
+317,2023-11-13,Home,Vendor B,Carrier Y,3810,Yes,Wrong Item,2023-11-17,1670.0,7
+318,2023-11-14,Clothing,Vendor C,Carrier Z,1807,Yes,No Longer Needed,2023-11-20,824.0,9
+320,2023-11-16,Home,Vendor C,Carrier X,3876,Yes,Late Delivery,2023-11-25,2408.0,3
+326,2023-11-22,Electronics,Vendor B,Carrier Y,4644,Yes,Damaged,2023-11-28,1848.0,4
+327,2023-11-23,Home,Vendor B,Carrier X,1159,Yes,Wrong Item,2023-12-07,867.0,8
+332,2023-11-28,Clothing,Vendor C,Carrier Z,726,Yes,Wrong Item,2023-12-10,407.0,6
+333,2023-11-29,Electronics,Vendor C,Carrier X,3424,Yes,Wrong Item,2023-12-11,1793.0,5
+339,2023-12-05,Sports,Vendor D,Carrier Y,720,Yes,No Longer Needed,2023-12-17,417.0,4
+340,2023-12-06,Beauty,Vendor C,Carrier Z,1216,Yes,No Longer Needed,2023-12-15,466.0,8
+343,2023-12-09,Home,Vendor C,Carrier X,783,Yes,Damaged,2023-12-13,475.0,1
+347,2023-12-13,Home,Vendor A,Carrier Z,4367,Yes,Damaged,2023-12-21,2103.0,9
+348,2023-12-14,Electronics,Vendor A,Carrier X,4060,Yes,No Longer Needed,2023-12-23,3039.0,1
+349,2023-12-15,Clothing,Vendor D,Carrier X,473,Yes,Damaged,2023-12-19,182.0,8
+350,2023-12-16,Sports,Vendor B,Carrier X,2213,Yes,Late Delivery,2023-12-21,1225.0,4
+360,2023-12-26,Sports,Vendor B,Carrier X,3696,Yes,Late Delivery,2024-01-09,2214.0,9
+363,2023-12-29,Beauty,Vendor A,Carrier X,3962,Yes,No Longer Needed,2024-01-06,1255.0,5
+364,2023-12-30,Sports,Vendor B,Carrier Z,1776,Yes,Damaged,2024-01-11,856.0,3
+369,2024-01-04,Beauty,Vendor C,Carrier Z,2920,Yes,Wrong Item,2024-01-14,1946.0,9
+374,2024-01-09,Home,Vendor D,Carrier Z,3048,Yes,Late Delivery,2024-01-23,2165.0,9
+375,2024-01-10,Electronics,Vendor C,Carrier Z,4244,Yes,No Longer Needed,2024-01-16,1938.0,4
+376,2024-01-11,Home,Vendor C,Carrier Y,2149,Yes,Damaged,2024-01-23,1503.0,4
+382,2024-01-17,Sports,Vendor D,Carrier X,2369,Yes,No Longer Needed,2024-01-24,1857.0,8
+383,2024-01-18,Electronics,Vendor D,Carrier Z,4438,Yes,Wrong Item,2024-01-21,3233.0,2
+385,2024-01-20,Sports,Vendor C,Carrier Z,305,Yes,Late Delivery,2024-01-27,109.0,9
+392,2024-01-27,Sports,Vendor A,Carrier Z,2256,Yes,No Longer Needed,2024-02-08,1511.0,6
+393,2024-01-28,Sports,Vendor B,Carrier Y,3344,Yes,No Longer Needed,2024-02-11,1538.0,9
+397,2024-02-01,Sports,Vendor A,Carrier Z,915,Yes,No Longer Needed,2024-02-09,727.0,8
+406,2024-02-10,Sports,Vendor A,Carrier Z,658,Yes,Wrong Item,2024-02-20,357.0,7
+410,2024-02-14,Beauty,Vendor B,Carrier Y,3585,Yes,No Longer Needed,2024-02-20,1295.0,1
+413,2024-02-17,Sports,Vendor B,Carrier Y,1094,Yes,Wrong Item,2024-02-27,725.0,3
+414,2024-02-18,Beauty,Vendor B,Carrier Z,714,Yes,Wrong Item,2024-02-27,330.0,2
+418,2024-02-22,Clothing,Vendor B,Carrier X,3156,Yes,Wrong Item,2024-03-06,2520.0,5
+419,2024-02-23,Sports,Vendor A,Carrier Y,1760,Yes,Late Delivery,2024-02-29,1390.0,5
+431,2024-03-06,Clothing,Vendor B,Carrier Y,2535,Yes,Late Delivery,2024-03-18,1592.0,5
+433,2024-03-08,Beauty,Vendor A,Carrier X,3865,Yes,No Longer Needed,2024-03-17,1410.0,4
+437,2024-03-12,Clothing,Vendor A,Carrier Z,511,Yes,No Longer Needed,2024-03-25,329.0,5
+440,2024-03-15,Electronics,Vendor C,Carrier X,3171,Yes,Late Delivery,2024-03-19,1099.0,3
+443,2024-03-18,Home,Vendor B,Carrier Y,4740,Yes,Damaged,2024-03-26,1492.0,1
+448,2024-03-23,Electronics,Vendor B,Carrier Y,2177,Yes,Late Delivery,2024-04-03,1549.0,5
+450,2024-03-25,Clothing,Vendor B,Carrier Z,2271,Yes,Wrong Item,2024-03-29,919.0,9
+455,2024-03-30,Beauty,Vendor D,Carrier Z,3653,Yes,Late Delivery,2024-04-01,1788.0,9
+456,2024-03-31,Clothing,Vendor C,Carrier X,1155,Yes,Wrong Item,2024-04-10,909.0,4
+457,2024-04-01,Sports,Vendor C,Carrier Z,1912,Yes,No Longer Needed,2024-04-12,896.0,3
+459,2024-04-03,Clothing,Vendor C,Carrier Z,1473,Yes,Damaged,2024-04-12,660.0,1
+463,2024-04-07,Sports,Vendor C,Carrier X,1641,Yes,No Longer Needed,2024-04-12,1246.0,2
+468,2024-04-12,Home,Vendor B,Carrier Y,1594,Yes,Wrong Item,2024-04-16,566.0,8
+476,2024-04-20,Sports,Vendor D,Carrier X,3114,Yes,Wrong Item,2024-04-22,2117.0,1
+480,2024-04-24,Sports,Vendor A,Carrier Y,3569,Yes,Wrong Item,2024-04-25,2834.0,8
+481,2024-04-25,Electronics,Vendor C,Carrier X,1139,Yes,Damaged,2024-05-06,855.0,7
+487,2024-05-01,Electronics,Vendor A,Carrier Z,3252,Yes,Late Delivery,2024-05-08,2035.0,8
+489,2024-05-03,Beauty,Vendor D,Carrier Y,2565,Yes,No Longer Needed,2024-05-09,1172.0,6
+492,2024-05-06,Sports,Vendor B,Carrier Z,1846,Yes,No Longer Needed,2024-05-08,789.0,9
+498,2024-05-12,Electronics,Vendor D,Carrier Z,4014,Yes,Late Delivery,2024-05-20,2848.0,3
+499,2024-05-13,Electronics,Vendor C,Carrier Z,3416,Yes,No Longer Needed,2024-05-24,2528.0,4
+500,2024-05-14,Electronics,Vendor B,Carrier Z,3138,Yes,Damaged,2024-05-18,1766.0,6
